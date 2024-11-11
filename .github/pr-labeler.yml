@@ -1,0 +1,4 @@
+'Type: Bug / Error': 'bug/*'
+'Type: Enhancement': 'feature/*'
+'Type: Other': 'other/*'
+'Type: Dependabot': 'dependabot/*'
